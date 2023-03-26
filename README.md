@@ -1,3 +1,13 @@
+[15] Task Offloading in Computing Continuum Using Collaborative Reinforcement Learning
+作者：Robles-Enciso A, Skarmeta A F.
+出处：Internet of Things: 5th The Global IoT Summit, GIoTS 2022
+摘要：Computing Continuum范式的挑战之一是生成的任务在每一层（云-雾-边缘）的设备之间的最佳分配。在本文中，我们建议使用强化学习(RL)来解决边缘层的任务分配问题(TAP)，然后我们提出一种新颖的RL(ML-RL)技术的多层扩展，允许边缘代理查询具有更多知识的上层代理，以提高复杂和不确定情况下的性能。我们首先考虑能量消耗和执行时间之间的权衡来制定任务分配过程。然后，我们提出一个贪婪的解决方案作为基准，并在PureEdgeSim模拟器中实施我们的两个RL提议。最后，使用不同数量的设备评估每种算法的多个模拟以验证可扩展性。仿真结果表明，强化学习解决方案优于基于启发式的解决方案，我们的多层方法可以显着提高高设备密度场景中的性能。
+链接：
+https://link.springer.com/chapter/10.1007/978-3-031-20936-9_7
+代码：
+https://github.com/alb1183/ML-RL-simulations
+
+
 # ML-RL-simulations
 A multi-layer guided reinforcement learning-based tasks offloading in edge computing - Simulations
 
